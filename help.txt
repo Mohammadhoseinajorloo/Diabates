@@ -20,3 +20,6 @@ Selection feature
 feature_col = [pregnant , insulin, bmi, age, glucose, bp, depigree]
 ##############################################################################################################
 Split x and y into training and testing sets
+###############################################################################################################
+research argoman LogesticRegression in pdf file
+
