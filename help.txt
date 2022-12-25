@@ -1,25 +1,2 @@
 source ~/anaconda3/bin/activate root
-##############################################################################################################
-Logistic Regression
-A Simple Example
-First: Importing out libraries
-Notrics:Metrics of this algorithm is not tought
-##############################################################################################################
-Now importing the dataset
-Pregnancies:Number of times pregnat
-Glucose:Plasma glucoses concetration a 2 hours in an oral glucose tolerance test
-BloodPressure:Diastollc blood pressure(mm Hg)
-SkinThickness:Triceps skin fold thickness
-Insulin:2-Hour serum insulin (mu U/ml)
-BMI:Body mass index(weight in kh/(height in m)^2)
-DiabetesPedigreeFunction:Dibetes pedigree function
-Age:Years
-Outcome:0 is No, 1 is Yes
-##############################################################################################################
-Selection feature
-feature_col = [pregnant , insulin, bmi, age, glucose, bp, depigree]
-##############################################################################################################
-Split x and y into training and testing sets
-###############################################################################################################
-research argoman LogesticRegression in pdf file
 
